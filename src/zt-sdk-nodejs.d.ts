@@ -1,3 +1,3 @@
-declare module '@hanzozt/ziti-sdk-nodejs' {
+declare module '@hanzozt/zt-sdk-nodejs' {
   export function enroll(tokenFile: string): Promise<any>;
 }

@@ -17,6 +17,6 @@
     "typescript": "^5.6.3"
   },
   "dependencies": {
-    "@hanzozt/ziti-sdk-nodejs": "^0.17.0"
+    "@hanzozt/zt-sdk-nodejs": "^0.17.0"
   }
 }
